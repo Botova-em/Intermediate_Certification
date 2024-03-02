@@ -30,12 +30,6 @@ git log oneline
 git checkout
 ```
 
-<<<<<<< HEAD
-## Выбор ветки
-``` sh
-git checkout имя ветки
-```
-=======
 ## Отображение всех веток 
 ``` sh
 git branch
@@ -46,4 +40,3 @@ git branch
 git checkout "имя ветки"
 ```
 
->>>>>>> branch_comand
