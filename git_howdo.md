@@ -35,3 +35,8 @@ git checkout
 git branch
 ```
 
+## Переключение между ветками 
+``` sh
+git checkout "имя ветки"
+```
+
