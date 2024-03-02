@@ -30,7 +30,20 @@ git log oneline
 git checkout
 ```
 
+<<<<<<< HEAD
 ## Выбор ветки
 ``` sh
 git checkout имя ветки
 ```
+=======
+## Отображение всех веток 
+``` sh
+git branch
+```
+
+## Переключение между ветками 
+``` sh
+git checkout "имя ветки"
+```
+
+>>>>>>> branch_comand
