@@ -30,4 +30,7 @@ git log oneline
 git checkout
 ```
 
-
+## Выбор ветки
+``` sh
+git checkout имя ветки
+```
